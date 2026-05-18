@@ -6,9 +6,9 @@ This repository showcases my coding and programming projects in **Mechatronics, 
 It includes work from my Bachelor’s in Mechatronics, graduate‑level coursework in AI, and projects from the Data Analyst Professional Certificate (Audit Track).
 
 ## Skills Highlighted
-- **Mechatronics (B.Eng)**: C++, Java, Python (robot detection using QR codes), basic machine learning.
+- **Mechatronics (B.Eng)**: C++, Java, Python , basic machine learning.
 - **AI & Machine Learning**: Deep learning, PyTorch, computer vision, model development.
-- **Data Analysis**: SQL (DB2, SQLite), Excel, Power BI, Cognos, dashboards, Python data analysis.
+- **Data Analysis**: SQL (DB2, SQLite), Excel, dashboards, Python data analysis.
 - **Projects**: Sensor calibration, TOF technology thesis.
 
 ## Project Categories
